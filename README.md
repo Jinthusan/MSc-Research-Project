@@ -37,3 +37,5 @@ This project aims to predict the quality of product sales based on consumer revi
 ## Execution
 - Prediction: python3 src/main.py
 - Test: python3 -m unittest discover -s tests
+
+  REF: https://drive.google.com/file/d/1T5TiuDuKLW-atPiQTMFMFJvOfh3X4NXW/view?usp=sharing
